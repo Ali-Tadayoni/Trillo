@@ -1,5 +1,10 @@
 .DS_Store
 node_modules
 
-
 *.css.map
+
+
+# build process css
+style.comp.css
+style.prefix.css
+
